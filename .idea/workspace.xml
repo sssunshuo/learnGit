@@ -102,7 +102,7 @@
       <updated>1555039853253</updated>
       <workItem from="1555039854410" duration="2783000" />
       <workItem from="1555290304090" duration="1808000" />
-      <workItem from="1555377566567" duration="1917000" />
+      <workItem from="1555377566567" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1555039937251</created>
@@ -129,7 +129,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6508000" />
+    <option name="totallyTimeSpent" value="6904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
@@ -141,7 +141,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.5979381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6689576" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.54295534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
